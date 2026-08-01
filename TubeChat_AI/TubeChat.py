@@ -14,7 +14,6 @@ from langchain_chroma import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
-os.environ["GOOGLE_API_KEY"] = "AQ.Ab8RN6LBHf2jxx_9arHDiGn_kUYVRRYP4q5X0edV9KGNSfOHPA"
 
 st.set_page_config(page_title="Tube Chat AI", page_icon="🎥", layout="wide")
 
