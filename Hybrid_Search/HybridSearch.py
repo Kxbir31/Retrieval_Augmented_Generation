@@ -11,7 +11,7 @@ documents = [Document(
     page_content = "Employ 1 works in AI department"
 ),
     Document(
-    page_content = "EMP002 works in HR department , lives in delhi "
+    page_content = "Employ 2works in HR department , lives in delhi "
 ),
     Document(
         page_content = "EMP003 works in Health department"
