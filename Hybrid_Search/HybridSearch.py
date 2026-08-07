@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 documents = [Document(
-    page_content = "EMP001 works in AI department"
+    page_content = "Employ 1 works in AI department"
 ),
     Document(
     page_content = "EMP002 works in HR department , lives in delhi "
